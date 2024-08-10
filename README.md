@@ -33,21 +33,9 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+ - Full Name: Erica Sturm, PhD
+ - Womanium Program Enrollment ID: WQ24-oHjh1T4bcxkeSVT
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
-
-### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
-
-See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+In this project I created 3 separate notebooks to cover the first three tasks of this assignment. The first notebook covers the first task of looking at JAX x PennyLane + the official task 1 In this project I created 3 separate notebooks to cover the first three tasks of this assignment. The first notebook covers the first task of looking at JAX x PennyLane + the official task 1 all of the codercises from the first 3 chapters of the PennyLane demos. I have documented my learning process for all of that in the first notebook. The second notebook is task number 2's learning jourall of the codercises from the first 3 chapters of the PennyLane demos. I provide guided walk throughs with my own commentary to demonstrate my understanding and synthesis with earlier work. 
 
